@@ -1,4 +1,4 @@
-# EndMinecraftPlus
+# EndMinecraftPlus(1.16.5)
 基于<a href="https://github.com/iuli-moe/EndMinecraft">EndMinecraft</a>优化修改的Minecraft压测工具
 
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
@@ -55,7 +55,4 @@ spamdelay=5000
 4. 选择代理类型
 5. 从本地载入配置
 
-*修改内容:*
-1.重构大量核心代码
-2.大幅度性能负优化
-3.修复Forge协议无法进服
+
